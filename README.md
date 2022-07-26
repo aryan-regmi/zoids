@@ -1,2 +1,2 @@
 # zoids
-Zombie game in C + SDL
+Zombie game in Z + SDL
